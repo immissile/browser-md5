@@ -1,0 +1,24 @@
+{
+  "name": "browser-md5",
+  "version": "1.0.0",
+  "description": "md5 js run on browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immissile/browser-md5.git"
+  },
+  "keywords": [
+    "md5",
+    "browser",
+    "md5.js"
+  ],
+  "author": "Missile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/immissile/browser-md5/issues"
+  },
+  "homepage": "https://github.com/immissile/browser-md5#readme"
+}
